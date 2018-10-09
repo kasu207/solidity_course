@@ -13,6 +13,7 @@
     "mocha": "^5.2.0",
     "python": "0.0.4",
     "solc": "^0.4.25",
-    "truffle-hdwallet-provider": "0.0.6"
+    "truffle-hdwallet-provider": "0.0.6",
+    "web3": "^1.0.0-beta.35"
   }
 }
